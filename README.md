@@ -1,5 +1,3 @@
-# Programmer Muhammad Muneeb Haroon. 📱
-
 # Programmer Muhammad Muneeb Haroon. 💻
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Muneeb80806&color=blueviolet&style=flat-square&label=Profile+Views) ![GitHub followers](https://img.shields.io/github/followers/Muneeb80806?label=Followers&style=social) ![GitHub Stars](https://img.shields.io/github/stars/Muneeb80806?label=Stars&style=social)
