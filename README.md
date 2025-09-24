@@ -29,7 +29,7 @@ I'm a results-oriented Software Engineering student with a strong passion for de
 
 ### 🌐 **Featured Projects**
 - **[Techtron Alpha](https://techtron-alpha.square.site)** - WordPress Website
-- **[MSI Pakistan](https://msipak.square.site)** - WordPress Website  
+- **[Mazhar Shafi Industries Pakistan](https://msipak.square.site)** - WordPress Website  
 - **React Native Apps** - Complete mobile solutions with modern UI/UX
 - **Python Automation Suite** - Selenium-based web automation tools
 
