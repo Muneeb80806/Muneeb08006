@@ -2,7 +2,7 @@
 
 # Programmer Muhammad Muneeb Haroon. 💻
 
-![Profile Views](https://komarev.com/ghpvc/?username=Muneeb08006&color=blueviolet&style=flat-square&label=Profile+Views) ![GitHub followers](https://img.shields.io/github/followers/Muneeb08006?label=Followers&style=social) ![GitHub Stars](https://img.shields.io/github/stars/Muneeb08006?label=Stars&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Muneeb80806&color=blueviolet&style=flat-square&label=Profile+Views) ![GitHub followers](https://img.shields.io/github/followers/Muneeb80806?label=Followers&style=social) ![GitHub Stars](https://img.shields.io/github/stars/Muneeb80806?label=Stars&style=social)
 
 Hello World, I am **Muneeb**  
 I am a Mobile App Developer & Automation Engineer  
