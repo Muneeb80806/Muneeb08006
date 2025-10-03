@@ -19,7 +19,7 @@ I'm a results-oriented Software Engineering student with a strong passion for de
 - 👯 I'm open to collaborating on **Mobile App Projects** and **Automation Solutions**
 - 💬 Ask me about **React Native**, **Python Selenium**, **WordPress Development**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-muneeb-haroon-152a57376/)
-- ⚡ Fun fact: I can build fast APIs and teach me slowly! 😄
+- ⚡ Fun fact: I can build fast APIs
 
 ---
 
